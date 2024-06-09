@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+</head>
+<h1>FARLIGHT 84<br>CHARACTER</h1><br>
+
+<body style="background-color: hsl(0, 21%, 41%);">
+
+    <div class="product">
+        <li><a href="home.html">PRODUCT </a></li>
+    </div>
+
+    <div class="shop">
+        <li>
+            <a href="shop.html"><img src="C:\Users\user\Pictures\ICONS\shopping-cart-64.webp"></a>
+        </li>
+    </div>
+
+    <div class="left">
+        <img src="C:\Users\user\Pictures\ICONS\left.webp" width="100px" height="100px">
+    </div>
+
+
+    <div class="box">
+
+        <div class="boxs">
+            <img src="C:\Users\user\Pictures\CSC104\farlight 1.jpg">
+        </div>
+
+        <hr color="black">
+
+        <br>
+        <p class="duck">
+            DUCKSYDE
+        </p>
+        <br>
+
+        <div class="mod">
+            <img src="C:\Users\user\Pictures\CSC104\mod.PNG">
+            <p>Double Restore Passive Skill Every once in awhile,<br>Ducksyde can use the Shield Recharger with double the effect.</p>
+        </div>
+
+        <div class="mod">
+            <img src="C:\Users\user\Pictures\CSC104\mod 2.PNG">
+            <p>Wrecking Duckball Tactical Skill Movement Ducksyde inflates itself into a spherical shape, <br>enhancing speed and defense while dealing impact damage to enemies with a knockback effect.
+
+            </p>
+        </div>
+
+        <div class="mods">
+            <img src="C:\Users\user\Pictures\CSC104\mod3.PNG" width="92px" height="100px">
+            <P>Travel Barrier Ultimate Skill Defense Ducksyde deploys<br>a defensive drone that creates a large protective barrier that moves and follows.
+
+            </P>
+        </div>
+        <li>
+            <a href="#">
+                <p class="paragraph">$500</p>
+            </a>
+        </li>
+    </div>
+
+    <div class="arrow">
+
+        <div class="right">
+            <img src="C:\Users\user\Pictures\CSC104\icon-ios7-arrow-right-64.webp" width="115px" height="115px">
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
