@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+</head>
+
+<body style="background-color: hsl(0, 21%, 41%);">
+    <nav>
+        <ul>
+            <li><a href="home.html" class="active">PRODUCT </a></li>
+            <li><a href="deals.html">DEALS</a></li>
+            <li><a href="shop.html">SHOP</a></li>
+            <li><a href="Signup.html">Signup</a></li>
+        </ul>
+        <div class="search-container">
+            <form>
+                <span class="search-icon material-symbols-outlined">search</span>
+                <input type="text" class="search-input" type="search" placeholder="search..." name="search">
+            </form>
+        </div>
+    </nav>
+
+    <div class="banner-card">
+        <h1><br>FARLIGHT<br>PURCHASE<br>CHARACTER</h1>
+        <img src="C:\Users\user\Pictures\CSC104\farlight 1.jpg" width="900px" height="500px">
+    </div>
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="column">
+                <img src="C:\Users\user\Pictures\CSC104\maggie.webp" width="100%">
+                <p>maggie <br> Farlight 84 character</p>
+            </div>
+            <div class="side-img">
+                <img hidden src="C:\Users\user\Pictures\CSC104\price.png" width="16%">
+            </div>
+
+            <div class="column">
+                <img src="C:\Users\user\Pictures\CSC104\Capture.PNG" width="100%">
+                <p>MK.R <br> Farlight 84 character</p>
+            </div>
+
+            <div class="column">
+                <img src="C:\Users\user\Pictures\CSC104\Capture 2.PNG" width="100%">
+                <p>Phantom <br> Farlight 84 character</p>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="column">
+                <img src="C:\Users\user\Pictures\CSC104\maggie.webp" width="100%">
+                <p>maggie <br> Farlight 84 character</p>
+            </div>
+
+            <div class="column">
+                <img src="C:\Users\user\Pictures\CSC104\Capture.PNG" width="100%">
+                <p>MK.R <br> Farlight 84 character</p>
+            </div>
+
+            <div class="column">
+                <img src="C:\Users\user\Pictures\CSC104\Capture 2.PNG" width="100%">
+                <p>Phantom <br> Farlight 84 character</p>
+            </div>
+        </div>
+    </div>
+
+    <nav>
+        <ul>
+            <li><a href="#"><i class="fa-brands fa-instagram"></i>instagram</a></li>
+            <li><a href="#"><i class="fa-brands fa-twitter"></i>twitter</a></li>
+            <li><a href="#"><i class="fa-brands fa-facebook"></i>facebook</a></li>
+            <li><a href="#"><i class="fa-brands fa-whatsapp"></i>whatsapp</a></li>
+        </ul>
+    </nav>
+</body>
+
+</html>
